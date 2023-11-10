@@ -2,7 +2,15 @@ Curto Eivers Ivo
 Rodriguez Roig Ciro
 Posada Vargas Cristian Damian
 
+a-Se utilizan los siguientes comandos:
+1) git remote add upstream [Link del repositorio al que hiciste FORK]
+2) git pull upstream main (si estas en master en vez de main pones master)
+3) git push origin main (si estas en master en vez de main pones master)
+
+b-Debería poder, utilizando los mismos comandos que para actualizarlo al repo que hizo FORK
+
 c-No, ya que los forkeos de GAMMA y ALFA no tienen conexion entre si, como son copias del de BETA
   no pueden pushear cambios al mismo, por lo tanto no pueden pullear los cambios que hagan entre ellos.
+
 d-No, los datos que esten dentro del fork no se van a perder si se actualiza el mismo con los datos del
   repositorio original.
