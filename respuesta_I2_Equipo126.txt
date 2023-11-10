@@ -1,0 +1,8 @@
+Curto Eivers Ivo
+Rodriguez Roig Ciro
+Posada Vargas Cristian Damian
+
+c-No, ya que los forkeos de GAMMA y ALFA no tienen conexion entre si, como son copias del de BETA
+  no pueden pushear cambios al mismo, por lo tanto no pueden pullear los cambios que hagan entre ellos.
+d-No, los datos que esten dentro del fork no se van a perder si se actualiza el mismo con los datos del
+  repositorio original.
